@@ -11,6 +11,7 @@ namespace ConsoleApplication9
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Guys how are you doing");
+            Console.WriteLine("My project");
         }
     }
 }
